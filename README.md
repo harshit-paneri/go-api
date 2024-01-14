@@ -1,10 +1,10 @@
-# GO Notes API
+# GO API
 
 This is a simple API for storing notes. <br>
 This application is written in Go.
 
 ## Installation
-Docker Image : `docker pull harshitpaneri/go-rest-api`<br>
+Docker Image: `docker pull harshitpaneri/go-rest-api`<br>
 
 link : https://hub.docker.com/r/harshitpaneri/go-rest-api
 
